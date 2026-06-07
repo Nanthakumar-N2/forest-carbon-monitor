@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+data/
+
+output/classified_2022.tif
+output/classified_2024.tif
+output/ndvi_2022.tif
+output/ndvi_2024.tif
+output/ndvi_change.tif
