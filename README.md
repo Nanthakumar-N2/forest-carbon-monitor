@@ -77,6 +77,22 @@ Outputs saved to `output/`:
 
 ![NDVI Analysis Map](ndvi_analysis_map.png)
 
+## Results
+
+### NDVI Analysis Map
+
+![NDVI Analysis Map](output/ndvi_analysis_map.png)
+
+### Land Cover Chart
+
+![Land Cover Chart](output/land_cover_chart.png)
+
+### Summary
+
+- Forest loss detected: 7662.6 hectares
+- Forest loss percentage: 10.5%
+- Analysis period: 2022–2024
+
 ---
 
 **Author:** Nanthakumar P — GIS Engineer | dev.nanthakumar@gmail.com  
