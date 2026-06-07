@@ -16,7 +16,7 @@ A lightweight Python + Docker pipeline that detects vegetation loss using Sentin
 - Dense forest loss: **76.6 ha (10.5%)**
 - Estimated carbon at risk: **~11,490 tCO₂e**
 
-![NDVI Map](output/ndvi_analysis_map.png)
+![NDVI Analysis Map](ndvi_analysis_map.png)
 
 ---
 
@@ -69,6 +69,13 @@ Outputs saved to `output/`:
 - Deploy on AWS EC2 with S3 input/output for team-wide use
 - Schedule via Jenkins/cron for quarterly monitoring runs
 - Integrate PostGIS for spatial querying of large multi-site portfolios
+## Land Cover Chart
+
+![Land Cover Chart](land_cover_chart.png)
+
+## NDVI Analysis Map
+
+![NDVI Analysis Map](ndvi_analysis_map.png)
 
 ---
 
