@@ -1,0 +1,20 @@
+{
+  "2022": {
+    "period": "2022",
+    "dense_forest_ha": 72700.2,
+    "sparse_veg_ha": 11438.6,
+    "agriculture_ha": 3014.3,
+    "bare_ha": 7218.7
+  },
+  "2024": {
+    "period": "2024",
+    "dense_forest_ha": 65037.6,
+    "sparse_veg_ha": 16786.4,
+    "agriculture_ha": 3930.8,
+    "bare_ha": 8617.0
+  },
+  "forest_loss_ha": 7662.6,
+  "forest_loss_pct": 10.5,
+  "ndvi_mean_2022": 0.613,
+  "ndvi_mean_2024": 0.565
+}
